@@ -1,0 +1,151 @@
+/* =====================================================
+   QUICKFIX - GLOBAL APP CSS
+===================================================== */
+
+
+/* =====================================================
+   RESET
+===================================================== */
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+
+/* =====================================================
+   HTML / BODY / ROOT
+===================================================== */
+
+html,
+body,
+#root {
+  width: 100%;
+  min-height: 100%;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background: #f5f9ff;
+  color: #1e293b;
+  overflow-x: hidden;
+}
+
+
+/* =====================================================
+   ROOT APP
+===================================================== */
+
+#root {
+  min-height: 100vh;
+  width: 100%;
+}
+
+
+/* =====================================================
+   COMMON ELEMENTS
+===================================================== */
+
+button,
+input,
+textarea,
+select {
+  font-family: inherit;
+}
+
+button {
+  cursor: pointer;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+}
+
+a {
+  text-decoration: none;
+}
+
+
+/* =====================================================
+   TEXT SELECTION
+===================================================== */
+
+::selection {
+  background: #0876d1;
+  color: #ffffff;
+}
+
+
+/* =====================================================
+   SCROLLBAR
+===================================================== */
+
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f5f9;
+}
+
+::-webkit-scrollbar-thumb {
+  background: #b9d5ef;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #0876d1;
+}
+
+
+/* =====================================================
+   COMMON CONTAINER
+===================================================== */
+
+.container {
+  width: 100%;
+  max-width: none;
+  margin: 0 auto;
+  box-sizing: border-box;
+}
+
+
+/* =====================================================
+   COMMON FULL WIDTH
+===================================================== */
+
+.full-width {
+  width: 100%;
+  max-width: none;
+}
+
+
+/* =====================================================
+   RESPONSIVE
+===================================================== */
+
+@media (max-width: 768px) {
+
+  html,
+  body,
+  #root {
+    width: 100%;
+    overflow-x: hidden;
+  }
+
+}
+
+@media (max-width: 600px) {
+
+  body {
+    font-size: 14px;
+  }
+
+}

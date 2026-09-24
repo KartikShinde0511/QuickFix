@@ -1,0 +1,1219 @@
+/* =========================
+   QUICKFIX DARK MODE
+========================= */
+
+body.dark-mode {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+/* Settings page */
+
+body.dark-mode .settings-page {
+  background-color: #121212;
+  color: #ffffff;
+}
+
+/* Settings sections */
+
+body.dark-mode .settings-section {
+  background-color: #1e1e1e;
+  color: #ffffff;
+}
+
+/* Headings */
+
+body.dark-mode .settings-section h1,
+body.dark-mode .settings-section h2,
+body.dark-mode .settings-section h3,
+body.dark-mode .settings-header h1 {
+  color: #ffffff;
+}
+
+/* Paragraphs */
+
+body.dark-mode .settings-section p,
+body.dark-mode .settings-header p {
+  color: #bdbdbd;
+}
+
+/* Appearance card */
+
+body.dark-mode .appearance-card {
+  background-color: #252525;
+  color: #ffffff;
+}
+
+/* Privacy list */
+
+body.dark-mode .privacy-list {
+  background-color: #1e1e1e;
+  color: #ffffff;
+}
+
+/* Privacy rows */
+
+body.dark-mode .privacy-row {
+  background-color: #1e1e1e;
+  color: #ffffff;
+}
+
+/* Setting rows */
+
+body.dark-mode .setting-row {
+  background-color: #1e1e1e;
+  color: #ffffff;
+}
+
+/* Setting row content */
+
+body.dark-mode .setting-row-content h3 {
+  color: #ffffff;
+}
+
+body.dark-mode .setting-row-content p {
+  color: #bdbdbd;
+}
+
+/* Action buttons */
+
+body.dark-mode .settings-action-btn {
+  background-color: #2d2d2d;
+  color: #ffffff;
+  border-color: #444444;
+}
+
+/* Save area */
+
+body.dark-mode .settings-save-area {
+  background-color: #121212;
+}
+
+/* Success popup */
+
+body.dark-mode .settings-success-popup {
+  background-color: #1e1e1e;
+  color: #ffffff;
+}
+
+body.dark-mode .settings-success-popup h3 {
+  color: #ffffff;
+}
+
+body.dark-mode .settings-success-popup p {
+  color: #bdbdbd;
+}
+
+/* ========================================
+   QUICKFIX DASHBOARD - DARK MODE
+======================================== */
+
+/* MAIN DASHBOARD */
+
+body.dark-mode .dashboard {
+  background-color: #111827;
+  color: #ffffff;
+}
+
+
+/* ========================================
+   WELCOME HERO
+======================================== */
+
+body.dark-mode .dashboard-hero {
+  background-color: #1e293b;
+  color: #ffffff;
+  border: 1px solid #334155;
+}
+
+/* Welcome back */
+
+body.dark-mode .dashboard-hero .dashboard-greeting {
+  color: #ffffff;
+}
+
+/* Kartik */
+
+body.dark-mode .dashboard-hero h1 {
+  color: #ffffff;
+}
+
+/* Subtitle */
+
+body.dark-mode .dashboard-hero .dashboard-subtitle {
+  color: #ffffff;
+}
+
+
+/* Find a Service button */
+
+body.dark-mode .dashboard-hero .find-service-btn {
+  background-color: #2563eb;
+  color: #ffffff;
+  border: none;
+}
+
+body.dark-mode .dashboard-hero .find-service-btn:hover {
+  background-color: #1d4ed8;
+}
+
+
+/* ========================================
+   STATISTICS CARDS
+======================================== */
+
+body.dark-mode .dashboard-stat-card {
+  background-color: #1e293b;
+  color: #ffffff;
+  border: 1px solid #334155;
+}
+
+body.dark-mode .dashboard-stat-card p {
+  color: #cbd5e1;
+}
+
+body.dark-mode .dashboard-stat-card h2 {
+  color: #ffffff;
+}
+
+
+/* Statistics icons */
+
+body.dark-mode .stat-icon {
+  background-color: #e0f2fe;
+}
+
+
+/* ========================================
+   DASHBOARD PANELS
+======================================== */
+
+body.dark-mode .dashboard-panel {
+  background-color: #1e293b;
+  color: #ffffff;
+  border: 1px solid #334155;
+}
+
+
+/* Panel headings */
+
+body.dark-mode .panel-header h2 {
+  color: #ffffff;
+}
+
+body.dark-mode .panel-header p {
+  color: #cbd5e1;
+}
+
+
+/* Panel View All button */
+
+body.dark-mode .panel-header button {
+  color: #60a5fa;
+  background: transparent;
+}
+
+
+/* ========================================
+   UPCOMING BOOKING
+======================================== */
+
+body.dark-mode .upcoming-booking {
+  background-color: #202b3d;
+  border: 1px solid #64748b;
+}
+
+body.dark-mode .upcoming-info h3 {
+  color: #ffffff;
+}
+
+body.dark-mode .upcoming-info p {
+  color: #cbd5e1;
+}
+
+body.dark-mode .booking-details {
+  color: #cbd5e1;
+}
+
+body.dark-mode .upcoming-info h4 {
+  color: #ffffff;
+}
+
+
+/* Confirmed badge */
+
+body.dark-mode .confirmed-badge {
+  background-color: #dbeafe;
+  color: #1d4ed8;
+}
+
+
+/* ========================================
+   EMPTY BOOKING
+======================================== */
+
+body.dark-mode .empty-booking {
+  color: #ffffff;
+}
+
+body.dark-mode .empty-booking h3 {
+  color: #ffffff;
+}
+
+body.dark-mode .empty-booking p {
+  color: #cbd5e1;
+}
+
+body.dark-mode .empty-booking button {
+  background-color: #2563eb;
+  color: #ffffff;
+}
+
+
+/* ========================================
+   QUICK ACTIONS
+======================================== */
+
+body.dark-mode .quick-actions button {
+  background-color: #202b3d;
+  color: #ffffff;
+  border: 1px solid #334155;
+}
+
+body.dark-mode .quick-actions button:hover {
+  background-color: #27364b;
+}
+
+body.dark-mode .quick-actions strong {
+  color: #ffffff;
+}
+
+body.dark-mode .quick-actions small {
+  color: #cbd5e1;
+}
+
+
+/* Quick Action icons */
+
+body.dark-mode .quick-actions button > span {
+  background-color: #e0f2fe;
+}
+
+
+/* ========================================
+   POPULAR SERVICES
+======================================== */
+
+body.dark-mode .dashboard-services {
+  color: #ffffff;
+}
+
+body.dark-mode .dashboard-service-card {
+  background-color: #202b3d;
+  color: #ffffff;
+  border: 1px solid #334155;
+}
+
+body.dark-mode .service-card-content h3 {
+  color: #ffffff;
+}
+
+body.dark-mode .service-card-content p {
+  color: #cbd5e1;
+}
+
+body.dark-mode .service-bottom {
+  color: #cbd5e1;
+}
+
+body.dark-mode .service-bottom strong {
+  color: #ffffff;
+}
+
+
+/* ========================================
+   TRUST SECTION
+======================================== */
+
+body.dark-mode .dashboard-trust {
+  background-color: #1e293b;
+  color: #ffffff;
+  border: 1px solid #334155;
+}
+
+body.dark-mode .trust-item h3 {
+  color: #ffffff;
+}
+
+body.dark-mode .trust-item p {
+  color: #cbd5e1;
+}
+
+/* ========================================
+   QUICKFIX HELP & SUPPORT - DARK MODE
+======================================== */
+
+/* MAIN PAGE */
+
+body.dark-mode .help-page {
+  background-color: #111827;
+  color: #ffffff;
+}
+
+
+/* ========================================
+   HEADER
+======================================== */
+
+body.dark-mode .help-header {
+  color: #ffffff;
+}
+
+body.dark-mode .help-header .help-label {
+  color: #60a5fa;
+}
+
+body.dark-mode .help-header h1 {
+  color: #ffffff;
+}
+
+body.dark-mode .help-header p {
+  color: #ffffff;
+}
+
+body.dark-mode .help-header-icon {
+  color: #ffffff;
+}
+
+
+/* ========================================
+   SUPPORT CARDS
+======================================== */
+
+body.dark-mode .support-card {
+  background-color: #1e293b;
+  color: #ffffff;
+  border: 1px solid #334155;
+}
+
+body.dark-mode .support-card h2 {
+  color: #ffffff;
+}
+
+body.dark-mode .support-card p {
+  color: #cbd5e1;
+}
+
+
+/* Support buttons */
+
+body.dark-mode .support-card button {
+  background-color: #2563eb;
+  color: #ffffff;
+  border: none;
+}
+
+body.dark-mode .support-card button:hover {
+  background-color: #1d4ed8;
+}
+
+
+/* ========================================
+   FAQ CONTAINER
+======================================== */
+
+body.dark-mode .faq-container {
+  background-color: #1e293b;
+  color: #ffffff;
+  border: 1px solid #334155;
+}
+
+body.dark-mode .faq-header h2 {
+  color: #ffffff;
+}
+
+body.dark-mode .faq-header p {
+  color: #cbd5e1;
+}
+
+
+/* FAQ count */
+
+body.dark-mode .faq-count {
+  background-color: #263449;
+  color: #ffffff;
+}
+
+
+/* ========================================
+   FAQ ITEMS
+======================================== */
+
+body.dark-mode .faq-item {
+  background-color: #202b3d;
+  border: 1px solid #334155;
+}
+
+body.dark-mode .faq-question {
+  background-color: #202b3d;
+  color: #ffffff;
+}
+
+body.dark-mode .faq-question span {
+  color: #ffffff;
+}
+
+body.dark-mode .faq-arrow {
+  color: #60a5fa;
+}
+
+
+/* FAQ answer */
+
+body.dark-mode .faq-answer {
+  background-color: #202b3d;
+  color: #ffffff;
+  border-top: 1px solid #334155;
+}
+
+body.dark-mode .faq-answer p {
+  color: #cbd5e1;
+}
+
+
+/* Open FAQ */
+
+body.dark-mode .faq-item.faq-open {
+  background-color: #263449;
+}
+
+body.dark-mode .faq-item.faq-open .faq-question {
+  background-color: #263449;
+}
+
+
+/* ========================================
+   CONTACT SECTION
+======================================== */
+
+body.dark-mode .help-contact-section {
+  background-color: #1e293b;
+  color: #ffffff;
+  border: 1px solid #334155;
+}
+
+body.dark-mode .contact-content h2 {
+  color: #ffffff;
+}
+
+body.dark-mode .contact-content p {
+  color: #cbd5e1;
+}
+
+
+/* Contact Support button */
+
+body.dark-mode .contact-support-btn {
+  background-color: #2563eb;
+  color: #ffffff;
+  border: none;
+}
+
+body.dark-mode .contact-support-btn:hover {
+  background-color: #1d4ed8;
+}
+
+
+/* ========================================
+   SUCCESS POPUP
+======================================== */
+
+body.dark-mode .help-success-popup {
+  background-color: #1e293b;
+  color: #ffffff;
+  border: 1px solid #334155;
+}
+
+body.dark-mode .help-success-popup h3 {
+  color: #ffffff;
+}
+
+body.dark-mode .help-success-popup p {
+  color: #cbd5e1;
+}
+
+/* ========================================
+   QUICKFIX MESSAGES - DARK MODE
+======================================== */
+
+
+/* ========================================
+   MAIN MESSAGES PAGE
+======================================== */
+
+body.dark-mode .messages-page {
+  background-color: #111827;
+  color: #ffffff;
+}
+
+
+/* ========================================
+   LEFT SIDE - CONVERSATION LIST
+======================================== */
+
+body.dark-mode .conversation-list {
+  background-color: #1e293b;
+  color: #ffffff;
+  border-right: 1px solid #334155;
+}
+
+
+/* Messages title */
+
+body.dark-mode .messages-title h1 {
+  color: #ffffff;
+}
+
+body.dark-mode .messages-title p {
+  color: #cbd5e1;
+}
+
+
+/* ========================================
+   SEARCH
+======================================== */
+
+body.dark-mode .conversation-search input {
+  background-color: #202b3d;
+  color: #ffffff;
+  border: 1px solid #475569;
+}
+
+body.dark-mode .conversation-search input::placeholder {
+  color: #94a3b8;
+}
+
+body.dark-mode .conversation-search input:focus {
+  border-color: #60a5fa;
+  outline: none;
+}
+
+
+/* ========================================
+   PROVIDER CONVERSATIONS
+======================================== */
+
+body.dark-mode .conversation {
+  background-color: transparent;
+  color: #ffffff;
+  border-bottom: 1px solid #334155;
+}
+
+body.dark-mode .conversation:hover {
+  background-color: #263449;
+}
+
+
+/* Selected conversation */
+
+body.dark-mode .active-conversation {
+  background-color: #263449;
+  border-left: 4px solid #2563eb;
+}
+
+
+/* Provider name */
+
+body.dark-mode .conversation-info h3 {
+  color: #ffffff;
+}
+
+
+/* Service name */
+
+body.dark-mode .conversation-info p {
+  color: #cbd5e1;
+}
+
+
+/* ========================================
+   RIGHT SIDE - CHAT SECTION
+======================================== */
+
+body.dark-mode .chat-section {
+  background-color: #111827;
+  color: #ffffff;
+}
+
+
+/* ========================================
+   CHAT HEADER
+======================================== */
+
+body.dark-mode .chat-header {
+  background-color: #1e293b;
+  color: #ffffff;
+  border-bottom: 1px solid #334155;
+}
+
+body.dark-mode .chat-header h2 {
+  color: #ffffff;
+}
+
+body.dark-mode .chat-header p {
+  color: #4ade80;
+}
+
+
+/* ========================================
+   CHAT BODY
+======================================== */
+
+body.dark-mode .chat-body {
+  background-color: #111827;
+  color: #ffffff;
+}
+
+
+/* ========================================
+   ALL MESSAGES
+======================================== */
+
+body.dark-mode .message p {
+  color: #ffffff;
+}
+
+body.dark-mode .message span {
+  color: #cbd5e1;
+}
+
+
+/* ========================================
+   USER MESSAGE
+======================================== */
+
+body.dark-mode .user-message {
+  background-color: #2563eb;
+  color: #ffffff;
+}
+
+body.dark-mode .user-message p {
+  color: #ffffff;
+}
+
+body.dark-mode .user-message span {
+  color: #dbeafe;
+}
+
+
+/* ========================================
+   PROVIDER MESSAGE
+======================================== */
+
+body.dark-mode .provider-message {
+  background-color: #263449;
+  color: #ffffff;
+  border: 1px solid #334155;
+}
+
+body.dark-mode .provider-message p {
+  color: #ffffff;
+}
+
+body.dark-mode .provider-message span {
+  color: #cbd5e1;
+}
+
+
+/* ========================================
+   MESSAGE INPUT AREA
+======================================== */
+
+body.dark-mode .message-input {
+  background-color: #1e293b;
+  border-top: 1px solid #334155;
+}
+
+
+/* Input */
+
+body.dark-mode .message-input input {
+  background-color: #202b3d;
+  color: #ffffff;
+  border: 1px solid #475569;
+}
+
+body.dark-mode .message-input input::placeholder {
+  color: #94a3b8;
+}
+
+body.dark-mode .message-input input:focus {
+  outline: none;
+  border-color: #60a5fa;
+}
+
+
+/* Send button */
+
+body.dark-mode .message-input button {
+  background-color: #2563eb;
+  color: #ffffff;
+  border: none;
+}
+
+body.dark-mode .message-input button:hover {
+  background-color: #1d4ed8;
+}
+
+/* ========================================
+   QUICKFIX MY BOOKINGS - DARK MODE
+======================================== */
+
+
+/* ========================================
+   MAIN PAGE
+======================================== */
+
+body.dark-mode .my-bookings {
+  background-color: #111827;
+  color: #ffffff;
+}
+
+
+/* ========================================
+   PAGE HEADING
+======================================== */
+
+body.dark-mode .my-bookings h1 {
+  color: #ffffff;
+}
+
+
+/* ========================================
+   NO BOOKINGS
+======================================== */
+
+body.dark-mode .my-bookings .no-bookings {
+  color: #cbd5e1;
+}
+
+
+/* ========================================
+   BOOKING CARD
+======================================== */
+
+body.dark-mode .my-bookings .booking-card {
+  background-color: #1e293b;
+  color: #ffffff;
+  border: 1px solid #334155;
+}
+
+
+/* ========================================
+   BOOKING IMAGE
+======================================== */
+
+body.dark-mode .my-bookings .booking-image {
+  border-color: #334155;
+}
+
+
+/* ========================================
+   BOOKING INFORMATION
+======================================== */
+
+body.dark-mode .booking-info h2 {
+  color: #ffffff;
+}
+
+
+/* Normal information */
+
+body.dark-mode .booking-info p {
+  color: #cbd5e1;
+}
+
+
+/* Strong labels */
+
+body.dark-mode .booking-info p strong {
+  color: #ffffff;
+}
+
+
+/* ========================================
+   REMOVE BOOKING BUTTON
+======================================== */
+
+body.dark-mode .remove-booking-btn {
+  background-color: #dc2626;
+  color: #ffffff;
+  border: none;
+}
+
+body.dark-mode .remove-booking-btn:hover {
+  background-color: #b91c1c;
+}
+
+/* ========================================
+   USER LAYOUT, SEARCH, PROFILE & REVIEWS
+======================================== */
+
+body.dark-mode .top-navbar,
+body.dark-mode .sidebar {
+  background-color: #1e293b;
+  border-color: #334155;
+}
+
+body.dark-mode .top-navbar h2,
+body.dark-mode .sidebar-menu a,
+body.dark-mode .sidebar-menu button {
+  color: #f8fafc;
+}
+
+body.dark-mode .top-navbar input,
+body.dark-mode .profile-form-group input,
+body.dark-mode .review-text-section textarea {
+  background-color: #202b3d;
+  border-color: #475569;
+  color: #f8fafc;
+}
+
+body.dark-mode .top-navbar input::placeholder,
+body.dark-mode .profile-form-group input::placeholder,
+body.dark-mode .review-text-section textarea::placeholder {
+  color: #94a3b8;
+}
+
+body.dark-mode .sidebar-menu a:hover,
+body.dark-mode .sidebar-menu a.active,
+body.dark-mode .sidebar-menu button:hover {
+  background-color: #263449;
+}
+
+body.dark-mode .main-content,
+body.dark-mode .search-page,
+body.dark-mode .profile-page,
+body.dark-mode .reviews-page {
+  background-color: #111827;
+  color: #f8fafc;
+}
+
+body.dark-mode .search-page > h1,
+body.dark-mode .profile-header h1,
+body.dark-mode .profile-user-info h2,
+body.dark-mode .profile-section-title h2,
+body.dark-mode .profile-setting-item h3,
+body.dark-mode .reviews-header h1,
+body.dark-mode .reviews-section-header h2,
+body.dark-mode .service-info h2,
+body.dark-mode .service-info h3,
+body.dark-mode .review-card-content h3,
+body.dark-mode .review-modal h2,
+body.dark-mode .settings-header h1 {
+  color: #f8fafc;
+}
+
+body.dark-mode .service-card,
+body.dark-mode .profile-top,
+body.dark-mode .profile-section,
+body.dark-mode .profile-setting-item,
+body.dark-mode .reviews-container,
+body.dark-mode .review-service-card,
+body.dark-mode .review-modal,
+body.dark-mode .profile-success-popup,
+body.dark-mode .success-popup {
+  background-color: #1e293b;
+  border-color: #334155;
+  color: #f8fafc;
+}
+
+body.dark-mode .service-card:hover,
+body.dark-mode .profile-setting-item:hover,
+body.dark-mode .review-service-card:hover {
+  background-color: #263449;
+}
+
+body.dark-mode .service-info p,
+body.dark-mode .service-description,
+body.dark-mode .profile-header > div:first-child p,
+body.dark-mode .profile-user-info p,
+body.dark-mode .profile-section-title p,
+body.dark-mode .profile-setting-item p,
+body.dark-mode .reviews-header p,
+body.dark-mode .reviews-section-header p,
+body.dark-mode .review-provider,
+body.dark-mode .review-details,
+body.dark-mode .modal-service-name,
+body.dark-mode .modal-provider,
+body.dark-mode .rating-text,
+body.dark-mode .review-text-section small,
+body.dark-mode .profile-success-popup p,
+body.dark-mode .success-popup p {
+  color: #cbd5e1;
+}
+
+body.dark-mode .profile-form-group label,
+body.dark-mode .rating-section label,
+body.dark-mode .review-text-section label,
+body.dark-mode .profile-success-popup h3,
+body.dark-mode .success-popup h3 {
+  color: #f8fafc;
+}
+
+body.dark-mode .profile-form-group input:disabled {
+  background-color: #263449;
+  color: #94a3b8;
+}
+
+body.dark-mode .service-count,
+body.dark-mode .profile-header-icon,
+body.dark-mode .reviews-header-icon,
+body.dark-mode .setting-icon {
+  background-color: #263449;
+  border-color: #475569;
+}
+
+body.dark-mode .review-close-btn {
+  background-color: #263449;
+  color: #f8fafc;
+}
+
+/* ========================================
+   PROVIDER & ADMIN SETTINGS AND LAYOUTS
+======================================== */
+
+body.dark-mode .provider-navbar,
+body.dark-mode .provider-sidebar,
+body.dark-mode .admin-navbar,
+body.dark-mode .admin-sidebar {
+  background-color: #1e293b;
+  border-color: #334155;
+}
+
+body.dark-mode .provider-main-content,
+body.dark-mode .admin-content,
+body.dark-mode .provider-settings-page,
+body.dark-mode .admin-settings {
+  background-color: #111827;
+  color: #f8fafc;
+}
+
+body.dark-mode .provider-navbar-search,
+body.dark-mode .admin-navbar-search,
+body.dark-mode .provider-navbar-search input,
+body.dark-mode .admin-navbar-search input {
+  background-color: #202b3d;
+  border-color: #475569;
+  color: #f8fafc;
+}
+
+body.dark-mode .provider-navbar-user strong,
+body.dark-mode .admin-navbar-user strong,
+body.dark-mode .provider-sidebar-header h3,
+body.dark-mode .admin-sidebar-header h3,
+body.dark-mode .provider-nav-link,
+body.dark-mode .admin-nav-link {
+  color: #f8fafc;
+}
+
+body.dark-mode .provider-navbar-user span,
+body.dark-mode .admin-navbar-user span,
+body.dark-mode .provider-sidebar-header p,
+body.dark-mode .admin-sidebar-header p,
+body.dark-mode .provider-help-box p,
+body.dark-mode .admin-help-box p {
+  color: #cbd5e1;
+}
+
+body.dark-mode .provider-nav-link:hover,
+body.dark-mode .provider-nav-link.active,
+body.dark-mode .admin-nav-link:hover,
+body.dark-mode .admin-nav-link.active {
+  background-color: #263449;
+}
+
+body.dark-mode .provider-settings-section,
+body.dark-mode .provider-settings-list,
+body.dark-mode .provider-appearance-card,
+body.dark-mode .provider-settings-account-list,
+body.dark-mode .provider-settings-preferences,
+body.dark-mode .admin-settings-card,
+body.dark-mode .admin-settings-system {
+  background-color: #1e293b;
+  border-color: #334155;
+  color: #f8fafc;
+}
+
+body.dark-mode .provider-setting-row,
+body.dark-mode .provider-settings-account-row,
+body.dark-mode .provider-preference-item,
+body.dark-mode .admin-settings-item,
+body.dark-mode .admin-settings-toggle-item {
+  border-color: #334155;
+}
+
+body.dark-mode .provider-settings-header h1,
+body.dark-mode .provider-settings-section-header h2,
+body.dark-mode .provider-setting-row-content h3,
+body.dark-mode .provider-settings-account-row h3,
+body.dark-mode .provider-preference-item h3,
+body.dark-mode .admin-settings-header h1,
+body.dark-mode .admin-settings-card-header h2,
+body.dark-mode .admin-settings-item strong,
+body.dark-mode .admin-settings-toggle-item strong,
+body.dark-mode .admin-settings-system h3 {
+  color: #f8fafc;
+}
+
+body.dark-mode .provider-settings-header p,
+body.dark-mode .provider-settings-section-header p,
+body.dark-mode .provider-setting-row-content p,
+body.dark-mode .provider-settings-account-row p,
+body.dark-mode .provider-preference-item p,
+body.dark-mode .admin-settings-header > div > p:last-child,
+body.dark-mode .admin-settings-card-header p,
+body.dark-mode .admin-settings-item p,
+body.dark-mode .admin-settings-toggle-item p,
+body.dark-mode .admin-settings-system p {
+  color: #cbd5e1;
+}
+
+body.dark-mode .provider-settings-action-btn,
+body.dark-mode .admin-settings-toggle {
+  background-color: #263449;
+  border-color: #475569;
+  color: #f8fafc;
+}
+
+.admin-settings-toggle input {
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+}
+
+/* ========================================
+   ALL PROVIDER AND ADMIN WORKSPACE PAGES
+======================================== */
+
+body.dark-mode :is(
+  .provider-dashboard, .provider-profile-page, .provider-bookings-page,
+  .provider-messages-page, .provider-earnings-page,
+  .admin-dashboard, .admin-profile, .admin-messages,
+  .manage-users, .manage-providers, .manage-services, .manage-bookings
+) {
+  background-color: #111827;
+  color: #f8fafc;
+}
+
+body.dark-mode :is(
+  .provider-dashboard-header, .provider-dashboard-hero, .provider-stat-card,
+  .provider-dashboard-stat-card, .provider-dashboard-panel, .provider-booking-item,
+  .provider-latest-booking, .provider-quick-actions button, .provider-performance-item,
+  .provider-overview-card, .provider-trust-item, .provider-profile-card,
+  .provider-profile-section, .provider-profile-stat, .provider-profile-service,
+  .provider-booking-card, .provider-bookings-card, .provider-earning-card,
+  .provider-earnings-panel, .provider-performance-panel, .provider-transactions-panel,
+  .transaction-modal, .provider-messages-sidebar, .provider-chat-panel,
+  .admin-dashboard-header, .admin-dashboard-card, .admin-stat-card,
+  .admin-dashboard-panel, .admin-profile-hero, .admin-profile-card,
+  .admin-profile-security-card, .admin-profile-stat, .admin-profile-activity-card,
+  .admin-messages-sidebar, .admin-chat-panel, .manage-users-stat-card,
+  .manage-users-card, .manage-providers-stat-card, .manage-providers-card,
+  .manage-services-stat-card, .manage-services-card, .manage-bookings-stat-card,
+  .manage-bookings-card, .manage-bookings-revenue
+) {
+  background-color: #1e293b;
+  border-color: #334155;
+  color: #f8fafc;
+}
+
+body.dark-mode :is(
+  .provider-dashboard h1, .provider-dashboard h2, .provider-dashboard h3,
+  .provider-profile-page h1, .provider-profile-page h2, .provider-profile-page h3,
+  .provider-bookings-page h1, .provider-bookings-page h2, .provider-bookings-page h3,
+  .provider-messages-page h1, .provider-messages-page h2, .provider-messages-page h3,
+  .provider-earnings-page h1, .provider-earnings-page h2, .provider-earnings-page h3,
+  .admin-dashboard h1, .admin-dashboard h2, .admin-dashboard h3,
+  .admin-profile h1, .admin-profile h2, .admin-profile h3,
+  .admin-messages h1, .admin-messages h2, .admin-messages h3,
+  .manage-users h1, .manage-users h2, .manage-users h3,
+  .manage-providers h1, .manage-providers h2, .manage-providers h3,
+  .manage-services h1, .manage-services h2, .manage-services h3,
+  .manage-bookings h1, .manage-bookings h2, .manage-bookings h3,
+  .manage-users strong, .manage-providers strong, .manage-services strong,
+  .manage-bookings strong, .transaction-row strong, .transaction-modal strong
+) {
+  color: #f8fafc;
+}
+
+body.dark-mode :is(
+  .provider-dashboard p, .provider-dashboard small, .provider-dashboard span,
+  .provider-profile-page p, .provider-profile-page small,
+  .provider-bookings-page p, .provider-bookings-page small,
+  .provider-messages-page p, .provider-messages-page small,
+  .provider-earnings-page p, .provider-earnings-page small, .provider-earnings-page span,
+  .admin-dashboard p, .admin-dashboard small, .admin-dashboard span,
+  .admin-profile p, .admin-profile small, .admin-profile span,
+  .admin-messages p, .admin-messages small,
+  .manage-users p, .manage-users small, .manage-users td,
+  .manage-providers p, .manage-providers small, .manage-providers td,
+  .manage-services p, .manage-services small, .manage-services td,
+  .manage-bookings p, .manage-bookings small, .manage-bookings td,
+  .transaction-row span, .modal-details span
+) {
+  color: #cbd5e1;
+}
+
+body.dark-mode :is(
+  .provider-profile-field input, .provider-profile-field textarea,
+  .provider-period-select, .provider-bookings-search input,
+  .provider-bookings-filter-select, .provider-message-input input,
+  .admin-profile-field input, .admin-profile-password-field input,
+  .admin-messages-search input, .admin-message-input input,
+  .manage-users-search input, .manage-users-filter-select,
+  .manage-providers-search input, .manage-providers-filter-select,
+  .manage-services-search input, .manage-services-filter,
+  .manage-bookings-search input, .manage-bookings-filter-select
+) {
+  background-color: #202b3d;
+  border-color: #475569;
+  color: #f8fafc;
+}
+
+body.dark-mode :is(
+  .provider-profile-field input:disabled, .provider-profile-field textarea:disabled,
+  .admin-profile-value, .transaction-table-header,
+  .manage-users-table thead, .manage-providers-table thead,
+  .manage-services-table thead, .manage-bookings-table thead
+) {
+  background-color: #263449;
+  border-color: #475569;
+  color: #cbd5e1;
+}
+
+body.dark-mode :is(
+  .provider-profile-service:hover, .provider-performance-item:hover,
+  .provider-overview-card:hover, .provider-trust-item:hover, .provider-booking-item:hover,
+  .provider-earning-card:hover, .provider-stat-card:hover,
+  .admin-profile-stat:hover, .manage-users-table tbody tr:hover,
+  .manage-providers-table tbody tr:hover, .manage-services-table tbody tr:hover,
+  .manage-bookings-table tbody tr:hover
+) {
+  background-color: #263449;
+}
+
+body.dark-mode :is(
+  .manage-users-table, .manage-providers-table, .manage-services-table,
+  .manage-bookings-table, .transaction-table, .transaction-row,
+  .provider-booking-card, .provider-bookings-card
+) {
+  border-color: #334155;
+}
+
+body.dark-mode :is(
+  .manage-users-table th, .manage-providers-table th, .manage-services-table th,
+  .manage-bookings-table th, .transaction-table-header
+) {
+  color: #f8fafc;
+}

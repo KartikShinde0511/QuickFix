@@ -1,0 +1,90 @@
+/* =====================================================
+   MY BOOKINGS
+===================================================== */
+.my-bookings {
+  width: 100%;
+  min-height: calc(100vh - 110px);
+  padding: 0;
+  background: #f4f8ff;
+}
+
+.my-bookings h1 {
+  color: #0879d1;
+  font-size: 42px;
+  margin-bottom: 25px;
+}
+
+.booking-card {
+  width: 100%;
+  max-width: 850px;
+  background: #ffffff;
+  border-radius: 15px;
+  margin-bottom: 25px;
+  padding: 20px;
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);
+  display: flex;
+  gap: 20px;
+  align-items: flex-start;
+}
+
+.booking-image {
+  width: 220px;
+  height: 150px;
+  object-fit: cover;
+  border-radius: 12px;
+  flex-shrink: 0;
+}
+
+.booking-card h2 {
+  color: #0879d1;
+  font-size: 28px;
+  margin: 5px 0 15px;
+}
+
+.booking-card p {
+  font-size: 17px;
+  color: #40536b;
+  margin: 9px 0;
+}
+
+.booking-card strong {
+  color: #173b63;
+}
+
+.no-bookings {
+  font-size: 20px;
+  color: #666;
+}
+
+.remove-booking-btn {
+  margin-top: 15px;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 8px;
+  background: #dc3545;
+  color: #ffffff;
+  font-size: 15px;
+  font-weight: 600;
+  cursor: pointer;
+}
+
+.remove-booking-btn:hover {
+  background: #b02a37;
+}
+
+/* RESPONSIVE */
+@media (max-width: 768px) {
+  .booking-card {
+    max-width: 100%;
+  }
+}
+
+@media (max-width: 600px) {
+  .booking-card {
+    flex-direction: column;
+  }
+  .booking-image {
+    width: 100%;
+    height: 200px;
+  }
+}
